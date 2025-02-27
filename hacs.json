@@ -3,5 +3,6 @@
   "homeassistant": "0.115.0",
   "country": "CN",
   "domains": ["notify"],
+  "image": "https://raw.githubusercontent.com/wangjunmao/ha-bark/main/images/icon.png",
   "render_readme": true
 }
